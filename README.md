@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Sehar-1207
+- 👋 Hi, I’m Sehar Ajmal.
 - 👀 I’m interested in web development.
-- 🌱 I’m currently learning Software Engineering.
-- 💞️ I’m looking to collaborate .
-- 📫 How to reach me gmail.
+- 🌱 I’m currently enrolled Software Engineering.
+- 💞️ I’m looking to collaborate to increase knowledge and skills.
+- 📫 To reach me use gmail.
 - 😄 Pronouns: Sehar.
   
 
